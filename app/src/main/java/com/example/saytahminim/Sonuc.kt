@@ -18,7 +18,7 @@ class Sonuc : AppCompatActivity() {
 
         if(sonuc==false){
             binding.imageView3.setImageResource(R.drawable.sad)
-            binding.textView4.text = "Kazanamadın Rakam Buydu : $rakam"
+            binding.textView4.text = "Kazanamadın Rakam Buydu  $rakam"
 
         }
         else{
