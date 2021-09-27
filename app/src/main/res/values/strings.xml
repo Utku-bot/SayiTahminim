@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">recyclerview</string>
+    <string name="mainActivity_baslik">Sayı Tahmin Et</string>
+    <string name="mainactivity_baslik">mainActivity_baslik</string>
+    <string name="main_activiy_button">Oyuna Başla</string>
+    <string name="activity_tahmin_hak">Kalan Hak : 5</string>
+    <string name="activity_tahmin_button">Tahmin Et</string>
+    <string name="sonuc_image">Sonuç Görseli</string>
+    <string name="activity_sonuc_button">Tekrar Oyna</string>
+</resources>
